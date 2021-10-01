@@ -1,0 +1,1 @@
+enum VisibilityStatus {hourly, daily}
